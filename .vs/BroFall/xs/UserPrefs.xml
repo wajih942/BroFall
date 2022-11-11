@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A33ECDD4-88C2-6D36-E577-365658BEF2D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObstacleCoursePack/Controller/CameraManager.cs">
+    <Files>
+      <File FileName="Assets/ObstacleCoursePack/Scripts/Launcher.cs" Line="35" Column="15" />
+      <File FileName="Assets/ObstacleCoursePack/Controller/CameraManager.cs" Line="44" Column="43" />
+      <File FileName="Assets/ObstacleCoursePack/Controller/CharacterControls.cs" Line="82" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BroFall" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1f204f5d-b71d-4b31-bc52-0113637d576a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
